@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "commander": "npm:commander@^14.0.0",
+    "puppeteer": "npm:puppeteer@^24.19.0"
+  }
+}
